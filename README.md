@@ -1,0 +1,3 @@
+# SE2Group-Documents-Folder
+
+飞书和腾讯共享文档都不支持表格的Markdown语法，这里可以在web端实时编辑就不用在群里传文件了
